@@ -2,7 +2,7 @@
 
 This is the Matlab code used to analyse the data collected for my master thesis titled:
 
-"Thermodynamics and water activation of shape memory alloy actuators with focus on submarine applications"
+["Thermodynamics and water activation of shape memory alloy actuators with focus on submarine applications"](https://www.researchgate.net/publication/281235817_Thermodynamics_and_water_activation_of_shape_memory_alloy_actuators_with_focus_on_submarine_applications)
 
 
 ## Abstract
